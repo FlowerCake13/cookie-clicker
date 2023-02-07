@@ -50,7 +50,7 @@ JavaScript (app.js)
 
 ## Resources
 * **Slides:** https://docs.google.com/presentation/d/1lq18aaoVwUwZBkmLulYIGzspATIeqP4HYL0H-j4oaUs/
-* **Replit:** repl.it
+* **Replit:** [repl.it](repl.it)
 
 ##### HTML
 * HTML *w3schools*: https://www.w3schools.com/html
