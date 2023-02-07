@@ -52,16 +52,16 @@ JavaScript (app.js)
 * **Slides:** https://docs.google.com/presentation/d/1lq18aaoVwUwZBkmLulYIGzspATIeqP4HYL0H-j4oaUs/
 * **Replit:** [repl.it](repl.it)
 
-##### HTML
+#### HTML
 * HTML *w3schools*: https://www.w3schools.com/html
 * onclick event listener: https://www.w3schools.com/jsref/event_onclick.asp
 
-##### CSS
+#### CSS
 * CSS *w3schools*: https://www.w3schools.com/css
 * Google Fonts: https://fonts.google.com/
     * Google Fonts Tutorial: https://www.w3schools.com/howto/howto_google_fonts.asp
 
-##### JS
+#### JS
 * JS *w3schools*: https://www.w3schools.com/js/
 * getElementById: https://www.w3schools.com/jsref/met_document_getelementbyid.asp
 * innerHTML: https://www.w3schools.com/jsref/prop_html_innerhtml.asp
