@@ -6,6 +6,10 @@ body{
     height: 45vh;
 }
 
+#cps button {
+    padding: 1rem;
+}
+
 img {
     height: inherit;
 }
