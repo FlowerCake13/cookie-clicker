@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+#cookie-chan {
+    height: 45vh;
+}
+
+img {
+    height: inherit;
+}
+
+h2 span {
+    font-weight: normal;
+}
